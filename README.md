@@ -1,6 +1,14 @@
 # foreverYoung
 Pack light. Travel quickly. Bring double the money and half the stuff.
 
+### Books
+So you can always restart from zero. First principles baby. Education on a shelf.
+- Money / Technical Analysis
+  - Data Smart (Using Data Science to Transform Information into Insight) by John W. Foreman
+  - Swing Trading (for Dummies) by Omar Bassal, CFA
+  - Trading Rules II by William F. Eng
+  - Trading: Technical Analysis Masterclass by Rolf Schlotmann
+
 ### Money
 Always top of the list.
 - Money / Cash
