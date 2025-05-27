@@ -20,6 +20,11 @@ Always top of the list.
   - Koho ([koho.ca](https://www.koho.ca/))
   - Wise.com ([wise.com](https://wise.com/))
 
+# Passwords
+Places that needs username and passwords.
+- Gmail [accounts.google.com](https://accounts.google.com)
+- Proton.me [account.proton.me/login](https://account.proton.me/login)
+
 ### Protection
 Always wear protection. Use a condom, wear sunglasses, wear mechanix gloves.
 - Protection / Eyes / Blue Light Glasses
@@ -40,5 +45,5 @@ For the stuff that you can't find anywhere else or the trade secret you need to 
   - Proton.Me ([proton.me](https://proton.me/))
   - Sublime Text ([nodejs.org](https://nodejs.org/en))
 - Software / Email
-  - Proton.Me Mail ([proton.me](https://proton.me/))
+  - Proton.me Mail ([proton.me](https://proton.me/))
   - Zoho ([zoho.com](https://www.zoho.com/))
